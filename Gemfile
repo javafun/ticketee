@@ -28,6 +28,7 @@ end
 
 group :test do
 	gem 'cucumber-rails'
+	gem 'dynamic_form'
 	gem 'capybara'
 	gem 'database_cleaner'
 end
